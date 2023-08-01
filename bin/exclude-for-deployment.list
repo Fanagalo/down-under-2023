@@ -1,0 +1,7 @@
+.*
+_misc/
+node_modules/
+log/
+tmp/
+Makefile
+wp-cli.yml

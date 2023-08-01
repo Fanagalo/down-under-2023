@@ -1,0 +1,16 @@
+{
+  "name": "Carpress-WP",
+  "version": "0.0.0",
+  "private": true,
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-autoprefixer": "~0.6.5",
+    "grunt-concurrent": "*",
+    "grunt-contrib-compass": "*",
+    "grunt-contrib-jshint": "~0.7.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-po2mo": "^0.1.2",
+    "grunt-wp-i18n": "^0.5.1",
+    "matchdep": "*"
+  }
+}

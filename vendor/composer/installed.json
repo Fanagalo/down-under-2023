@@ -1,0 +1,42 @@
+[
+    {
+        "name": "primozcigler/wordpress-one-click-demo-install",
+        "version": "v0.4.0",
+        "version_normalized": "0.4.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/primozcigler/wordpress-one-click-demo-install.git",
+            "reference": "87c6e027105bd3688acf19e809a2f24b4eea76cc"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/primozcigler/wordpress-one-click-demo-install/zipball/87c6e027105bd3688acf19e809a2f24b4eea76cc",
+            "reference": "87c6e027105bd3688acf19e809a2f24b4eea76cc",
+            "shasum": ""
+        },
+        "time": "2015-05-28 12:56:17",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "importer/radium-importer.php"
+            ]
+        },
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Frank Gitonga"
+            },
+            {
+                "name": "Primoz Cigler",
+                "email": "primoz@proteusnet.com"
+            }
+        ],
+        "description": "Once Click Demo Content Install for WordPress.",
+        "support": {
+            "source": "https://github.com/primozcigler/wordpress-one-click-demo-install/tree/v0.4.0"
+        }
+    }
+]

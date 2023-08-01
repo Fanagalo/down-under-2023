@@ -1,0 +1,31 @@
+{
+  "name": "carpress",
+  "version": "0.0.0",
+  "authors": [
+    "Primoz Cigler <primoz.cigler@gmail.com>"
+  ],
+  "description": "premium wp theme",
+  "main": "index.php",
+  "keywords": [
+    "carpress",
+    "car",
+    "repair",
+    "wordpress"
+  ],
+  "license": "GPL2",
+  "homepage": "http://www.proteusthemes.com/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.1.0",
+    "Envato-WordPress-Theme-Updater": "https://github.com/primozcigler/Envato-WordPress-Theme-Updater.git",
+    "option-tree": "^2.5.4",
+    "TGM-Plugin-Activation": "https://github.com/thomasgriffin/TGM-Plugin-Activation.git#^2.5.2"
+  }
+}

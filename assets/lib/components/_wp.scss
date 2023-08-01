@@ -1,0 +1,81 @@
+// Styles from WP and plugin implementations
+
+/**
+ * WooCommerce
+ */
+
+.woocommerce {
+  .thumbnails {
+    margin-left: 0;
+  }
+  .quantity {
+    input {
+      margin-bottom: 0;
+      padding: 4px 0 4px 10px;
+    }
+  }
+  .summary {
+    .button {
+      height: 30px;
+      border-radius: 3px !important;
+    }
+  }
+  .button,
+  .woocommerce-tabs ul.tabs li a {
+    font-family: $primary-font !important;
+    text-transform: uppercase !important;
+  }
+  input {
+    height: auto;
+  }
+  table {
+    // width: 100%;
+  }
+  label {
+    display: inline;
+  }
+
+  table.shop_table tbody tr:first-child td {
+    border-top: 1px solid rgba(0,0,0,.1);
+  }
+
+  div.product form.cart .button,
+  #payment #place_order {
+    background-color: $theme-clr;
+
+    &:hover {
+      background-color: darken($theme-clr, 5);
+    }
+  }
+
+  // Color for button when is disabled
+  button.button.alt:disabled, {
+    background-color: $theme-clr;
+
+    &:hover,
+    &[disabled],
+    &[disabled]:hover {
+      background-color: $theme-clr;
+    }
+  }
+}
+
+// Checkout button
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button {
+  background-color: $theme-clr;
+
+  &:hover {
+    background-color: darken($theme-clr, 5);
+  }
+}
+
+// search
+#searchform {
+  .btn {
+    height: 40px;
+  }
+}
+#appendedInputButton {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}

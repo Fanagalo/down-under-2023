@@ -1,0 +1,1430 @@
+# Copyright (C) 2014 ProteusThemes
+# This file is distributed under the GPL 2.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Carpress WP Theme 1.8.0\n"
+"Report-Msgid-Bugs-To: http://support.proteusthemes.com/\n"
+"POT-Creation-Date: 2015-04-01 12:39:31+00:00\n"
+"PO-Revision-Date: 2015-05-02 11:13+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ca_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:9 inc/helpers.php:141
+msgid "Error 404"
+msgstr "Error 404"
+
+#. translators: the first string %s for line break, the second and third %s for
+#. link to home page wrap
+#: 404.php:17
+msgid ""
+"Looks like something went wrong! The page you were looking for is not here. "
+"%s Go %sHome%s or try to search"
+msgstr ""
+"Alguna cosa no ha anat bé! La pàgina que buscaves no és aquí. %s Vés a %la "
+"pàgina de benvinguda%s o prova la cerca"
+
+#: archive-gallery.php:58 single-gallery.php:57
+msgid "Gallery not found"
+msgstr "No s'ha trobat la galeria"
+
+#: archive-services.php:68 index.php:70 single.php:72
+msgid "Not Found"
+msgstr "No s'ha trobat."
+
+#: archive-services.php:71 front-template-page.php:46 page-no-sidebar.php:46
+#: page-right-sidebar.php:46 page.php:46 services-page.php:62
+#: single-services.php:70 single.php:75
+msgid "Page not found"
+msgstr "Pàgina no trobada"
+
+#: comments.php:23
+msgid "comments"
+msgstr "comentaris"
+
+#: comments.php:23
+msgid "comment"
+msgstr "comentari"
+
+#: comments.php:34
+msgid "Comment navigation"
+msgstr "Navegació dels comentaris"
+
+#: comments.php:35
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentaris més antics"
+
+#: comments.php:36
+msgid "Newer Comments &rarr;"
+msgstr "Comentaris més nous &rarr;"
+
+#: comments.php:46 comments.php:99
+msgid "Comments for this post are closed."
+msgstr "No es permeten comentaris en aquest post."
+
+#: comments.php:65
+msgid "Write a Comment"
+msgstr "Escriu un Comentari"
+
+#: comments.php:66
+msgid "Fields with * are required"
+msgstr "Es requereixen camps amb *"
+
+#: comments.php:77
+msgid "First and Last name"
+msgstr "Primer i segon cognom"
+
+#: comments.php:78
+msgid "E-mail Address"
+msgstr "Adreça de correu electrònic"
+
+#: comments.php:79
+msgid "Website"
+msgstr "Pàgina web"
+
+#: comments.php:90
+msgid "Post A Comment"
+msgstr "Escriu un comentari"
+
+#: inc/custom-comments.php:51
+msgid "<p class=\"name\"><span>%s</span> said:</p>"
+msgstr "<p class=\"name\"><span>%s</span> va dir:</p>"
+
+#. translators: 1: date, 2: time
+#: inc/custom-comments.php:57
+msgid "%1$s at %2$s"
+msgstr "%1$s a %2$s"
+
+#: inc/custom-comments.php:65
+msgid "Your comment is awaiting moderation."
+msgstr "El teu comentari està pendent d'aprovació."
+
+#: inc/helpers.php:98
+msgid "Page %s"
+msgstr "Pàgina %s"
+
+#: inc/helpers.php:136
+msgid "Home Page"
+msgstr "Pàgina de benvinguda"
+
+#: inc/helpers.php:137
+msgid "Archive by Category &quot;%s&quot;"
+msgstr "Arxiu per Categoria &quot;%s&quot;"
+
+#: inc/helpers.php:138
+msgid "Search Results for &quot;%s&quot; Query"
+msgstr "Resultats de la cerca per a la consulta &quot;%s&quot;"
+
+#: inc/helpers.php:139
+msgid "Posts Tagged &quot;%s&quot;"
+msgstr "Posts amb etiqueta &quot;%s&quot;"
+
+#: inc/helpers.php:140
+msgid "Articles Posted by %s"
+msgstr "Articles escrits per %s"
+
+#: inc/helpers.php:262
+msgid "Page"
+msgstr "Pàgina"
+
+#: inc/ot-meta-boxes.php:40
+msgid "Revolution Slider alias"
+msgstr ""
+
+#: inc/ot-meta-boxes.php:41
+msgid ""
+"Only applies to the template \"Front Page with Revolution Slider\". Paste "
+"the alias of the slider you created in the Revolution Slider plugin to this "
+"box (only <a href=\"https://www.diigo.com/item/image/3rli1/s9bj?size=o\" "
+"target=\"_blank\">alias</a>, not the whole shortcode)."
+msgstr ""
+
+#: inc/post-types.php:12 titlearea.php:60
+msgid "Services"
+msgstr "Serveis"
+
+#: inc/post-types.php:41
+msgid "Galleries"
+msgstr "Galeries"
+
+#: inc/post-types.php:126
+msgid "Team"
+msgstr "Equip"
+
+#: inc/theme-widgets.php:38
+msgid "Sunday"
+msgstr "Diumenge"
+
+#: inc/theme-widgets.php:39
+msgid "Monday"
+msgstr "Dilluns"
+
+#: inc/theme-widgets.php:40
+msgid "Tuesday"
+msgstr "Dimarts"
+
+#: inc/theme-widgets.php:41
+msgid "Wednesday"
+msgstr "Dimecres"
+
+#: inc/theme-widgets.php:42
+msgid "Thursday"
+msgstr "Dijous"
+
+#: inc/theme-widgets.php:43
+msgid "Friday"
+msgstr "Divendres"
+
+#: inc/theme-widgets.php:44
+msgid "Saturday"
+msgstr "Dissabte"
+
+#: inc/theme-widgets.php:327
+msgid "Read more"
+msgstr "Saber-ne més"
+
+#: inc/theme-widgets.php:337 inc/theme-widgets.php:457
+msgid "READ MORE"
+msgstr "SABER-NE MÉS"
+
+#: inc/woocommerce.php:81
+msgid "%s has been added to your cart."
+msgid_plural "%s have been added to your cart."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce.php:86
+msgid "Continue Shopping"
+msgstr ""
+
+#: inc/woocommerce.php:88
+#, fuzzy
+msgid "View Cart"
+msgstr "Veure Galeria"
+
+#: index.php:41 single.php:40
+msgid "Author"
+msgstr "Autor"
+
+#: index.php:42 single.php:41
+msgid "No comments"
+msgstr "Sense comentaris"
+
+#: index.php:42 single.php:41
+msgid "One comment"
+msgstr "Un comentari"
+
+#. translators: % represents the number, you must include it
+#: index.php:42 single.php:41
+msgid "% comments"
+msgstr "% comentaris"
+
+#: index.php:43 single.php:42
+msgid "Categories"
+msgstr "Categories"
+
+#: index.php:43 single.php:42
+msgid "Tags"
+msgstr "Etiquetes"
+
+#: index.php:53
+msgid "Read More"
+msgstr "Llegir més"
+
+#: index.php:55
+msgid "Link to this post"
+msgstr "Enllaç a l'entrada"
+
+#: index.php:73
+msgid "No posts found, sorry."
+msgstr "No s'han trobat entrades."
+
+#: searchform.php:4
+msgid "Go"
+msgstr "Ves-hi"
+
+#: single-services.php:66
+msgid "Back to services"
+msgstr "Enrere a serveis"
+
+#: single.php:51
+msgid "Pages:"
+msgstr "Pàgines:"
+
+#: titlearea.php:54
+msgid "Category"
+msgstr "Categoria"
+
+#: titlearea.php:56
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: titlearea.php:58
+msgid "Search Results For"
+msgstr "Resultats de la cerca per a"
+
+#: titlearea.php:62
+msgid "Gallery"
+msgstr "Galeria"
+
+#: titlearea.php:64
+msgid "Meet the Team"
+msgstr "Conegui l&#39;equip"
+
+#. Theme Name of the plugin/theme
+msgid "Carpress WP Theme"
+msgstr "Carpress Tema WP"
+
+#. Theme URI of the plugin/theme
+msgid "http://carpress.demo.proteusthemes.com/"
+msgstr "http://carpress.demo.proteusthemes.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"Carpress WP Theme is perfect for car mechanics, car wash, handymans and "
+"other local business, but it serves as good for any other type of website as "
+"well."
+msgstr ""
+"Carpress WP Theme és perfecta per als mecànics d&#39;automòbils, rentat de "
+"cotxes, handymans i altres negocis locals, però serveix com a bo per a "
+"qualsevol altre tipus de pàgina web també."
+
+#. Author of the plugin/theme
+msgid "ProteusThemes"
+msgstr "ProteusThemes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.proteusthemes.com/"
+msgstr "http://www.proteusthemes.com/"
+
+#. Template Name of the plugin/theme
+msgid "Appointment Page"
+msgstr "Pàgina de cita"
+
+#. Template Name of the plugin/theme
+msgid "Contact Page without Sidebar"
+msgstr "Pàgina de contacte sense barra lateral"
+
+#. Template Name of the plugin/theme
+msgid "Contact Page Template"
+msgstr "Plantilla de la pàgina de contacte"
+
+#. Template Name of the plugin/theme
+msgid "Front Page Template With Content"
+msgstr "Plantilla de Pàgina principal amb Contingut"
+
+#. Template Name of the plugin/theme
+#, fuzzy
+msgid "Front Page with Revolution Slider"
+msgstr "Pàgina de contacte sense barra lateral"
+
+#. Template Name of the plugin/theme
+msgid "Front Page Template With Widgets &amp; Slider"
+msgstr "Plantilla de Pàgina principal amb Ginys i Presentació"
+
+#. Template Name of the plugin/theme
+msgid "Front Page Template With Widgets"
+msgstr "Plantilla de Pàgina principal amb Ginys"
+
+#. Template Name of the plugin/theme
+msgid "Regular Page without Sidebar"
+msgstr "Pàgina normal sense barra lateral"
+
+#. Template Name of the plugin/theme
+msgid "Regular Page with a Sidebar on the Right"
+msgstr "Pàgina normal amb barra lateral a la dreta"
+
+#. Template Name of the plugin/theme
+msgid "Services Layout"
+msgstr "Disseny de serveis"
+
+#: comments.php:88
+msgctxt "noun"
+msgid "Your comment"
+msgstr "El teu comentari"
+
+#: inc/custom-comments.php:57
+msgctxt "backend"
+msgid "(Edit)"
+msgstr "(Edita)"
+
+#: inc/documentation-link.php:9 inc/documentation-link.php:10
+#: inc/documentation-link.php:21
+#, fuzzy
+msgctxt "backend"
+msgid "Documentation"
+msgstr "Navegació dels comentaris"
+
+#: inc/documentation-link.php:24
+msgctxt "backend"
+msgid "Click here to see online documentation of the theme!"
+msgstr ""
+
+#: inc/ot-meta-boxes.php:14 inc/ot-meta-boxes.php:54 inc/ot-meta-boxes.php:140
+msgctxt "backend"
+msgid "Carpress Options"
+msgstr "Opcions de Carpress"
+
+#: inc/ot-meta-boxes.php:15 inc/ot-meta-boxes.php:55 inc/ot-meta-boxes.php:141
+msgctxt "backend"
+msgid "Options specific to Carpress theme"
+msgstr "Opcions específiques del tema Carpress"
+
+#: inc/ot-meta-boxes.php:22 inc/ot-meta-boxes.php:62 inc/ot-meta-boxes.php:148
+#: inc/theme-widgets.php:1503
+msgctxt "backend"
+msgid "Subtitle"
+msgstr "Subtítol"
+
+#: inc/ot-meta-boxes.php:23 inc/ot-meta-boxes.php:63 inc/ot-meta-boxes.php:149
+msgctxt "backend"
+msgid ""
+"Subtitle of this page (shown right below the main title). Leave blank if you "
+"don't want to show."
+msgstr ""
+"Subtítol d'aquesta pàgina (es veu just a sota del títol principal). Deixa en "
+"blanc si no en vols mostrar cap."
+
+#: inc/ot-meta-boxes.php:31 inc/ot-meta-boxes.php:91
+msgctxt "backend"
+msgid "Background Image for Title Area"
+msgstr "Imatge de fons per l'àrea de títol"
+
+#: inc/ot-meta-boxes.php:32 inc/ot-meta-boxes.php:92
+msgctxt "backend"
+msgid ""
+"You can upload a custom image for the background of the title area for "
+"individual page."
+msgstr ""
+"Pots pujar una imatge pel fons de l'àrea de títol per una pàgina concreta."
+
+#: inc/ot-meta-boxes.php:71
+msgctxt "backend"
+msgid "Show on front page"
+msgstr "Mostrar a la pàgina principal"
+
+#: inc/ot-meta-boxes.php:72
+msgctxt "backend"
+msgid "Show this service on the front page?"
+msgstr "Mostrar aquest servei a la pàgina principal?"
+
+#: inc/ot-meta-boxes.php:79 inc/ot-meta-boxes.php:162
+#: inc/theme-customizer.php:212 inc/theme-customizer.php:345
+#: inc/theme-customizer.php:359 inc/theme-customizer.php:506
+msgctxt "backend"
+msgid "Yes"
+msgstr "Sí"
+
+#: inc/ot-meta-boxes.php:84 inc/ot-meta-boxes.php:167
+#: inc/theme-customizer.php:213 inc/theme-customizer.php:344
+#: inc/theme-customizer.php:360 inc/theme-customizer.php:507
+msgctxt "backend"
+msgid "No"
+msgstr "No"
+
+#: inc/ot-meta-boxes.php:100
+msgctxt "backend"
+msgid "Optional link for the front page services widget"
+msgstr "Link opcional pel widget de serveis de la pàgina principal"
+
+#: inc/ot-meta-boxes.php:101
+msgctxt "backend"
+msgid ""
+"By default (if you leave this blank) each &quot;READ MORE&quot; link will "
+"link to the service. You can override this default behaviour by specifing "
+"your custom link in this field."
+msgstr ""
+"Per defecte (si deixes això en blanc) cada link &quot;VEURE MÉS&quot; anirà "
+"a aquest servei. Pots canviar aquest comportament especificant un link en "
+"aquest camp."
+
+#: inc/ot-meta-boxes.php:116
+msgctxt "backend"
+msgid "Testimonial Options"
+msgstr "Opcions de Testimonis"
+
+#: inc/ot-meta-boxes.php:124
+msgctxt "backend"
+msgid "Title of the author for this testimonial"
+msgstr "Títol de l'autor d'aquest testimoni"
+
+#: inc/ot-meta-boxes.php:155
+msgctxt "backend"
+msgid "Disply in the widget?"
+msgstr "Mostrar al widget?"
+
+#: inc/ot-meta-boxes.php:156
+msgctxt "backend"
+msgid ""
+"If you select here yes, this team member will be shown in the widget The Team"
+msgstr ""
+"Si selecciones sí aquí, el membre de l'equip es veurà al widget de L'equip"
+
+#: inc/ot-meta-boxes.php:174
+msgctxt "backend"
+msgid "Team Member Custom Fields"
+msgstr "Camps personalitzats del membre de l'equip"
+
+#: inc/ot-meta-boxes.php:175
+msgctxt "backend"
+msgid ""
+"You can here define properties of the team member such as Age, Style, "
+"Education etc."
+msgstr ""
+"Aquí pots definir propietats de cada membre de l'equip com l'edat, estil, "
+"educació, etc."
+
+#: inc/post-types.php:13
+msgctxt "backend"
+msgid "Service"
+msgstr "Servei"
+
+#: inc/post-types.php:14 inc/post-types.php:43 inc/post-types.php:72
+#: inc/post-types.php:100 inc/post-types.php:128
+msgctxt "backend"
+msgid "Add New"
+msgstr "Afegeix nou"
+
+#: inc/post-types.php:15
+msgctxt "backend"
+msgid "Add New Service"
+msgstr "Afegeix nou servei"
+
+#: inc/post-types.php:16
+msgctxt "backend"
+msgid "Edit Service"
+msgstr "Edita el servei"
+
+#: inc/post-types.php:17
+msgctxt "backend"
+msgid "New Service"
+msgstr "Nou servei"
+
+#: inc/post-types.php:18
+msgctxt "backend"
+msgid "All Services"
+msgstr "Tots els serveis"
+
+#: inc/post-types.php:19
+msgctxt "backend"
+msgid "View Service"
+msgstr "Veure servei"
+
+#: inc/post-types.php:20
+msgctxt "backend"
+msgid "Search Services"
+msgstr "Cercar serveis"
+
+#: inc/post-types.php:21
+msgctxt "backend"
+msgid "No services found"
+msgstr "No s'ha trobat serveis"
+
+#: inc/post-types.php:22
+msgctxt "backend"
+msgid "No services found in Trash"
+msgstr "No s'ha trobat serveis a la Paperera"
+
+#: inc/post-types.php:23
+msgctxt "backend"
+msgid "Services"
+msgstr "Serveis"
+
+#: inc/post-types.php:42 inc/post-types.php:52
+msgctxt "backend"
+msgid "Gallery"
+msgstr "Galeria"
+
+#: inc/post-types.php:44
+msgctxt "backend"
+msgid "Add New Gallery"
+msgstr "Afegeix nova Galeria"
+
+#: inc/post-types.php:45
+msgctxt "backend"
+msgid "Edit Gallery"
+msgstr "Edita Galeria"
+
+#: inc/post-types.php:46
+msgctxt "backend"
+msgid "New Gallery"
+msgstr "Nova Galeria"
+
+#: inc/post-types.php:47
+msgctxt "backend"
+msgid "All Galleries"
+msgstr "Totes les Galeries"
+
+#: inc/post-types.php:48
+msgctxt "backend"
+msgid "View Gallery"
+msgstr "Veure Galeria"
+
+#: inc/post-types.php:49
+msgctxt "backend"
+msgid "Search Galleries"
+msgstr "Cercar Galeria"
+
+#: inc/post-types.php:50
+msgctxt "backend"
+msgid "No galleries found"
+msgstr "No s'ha trobat cap galeria"
+
+#: inc/post-types.php:51
+msgctxt "backend"
+msgid "No galleries found in Trash"
+msgstr "No s'ha trobat cap galeria a la Paperera"
+
+#: inc/post-types.php:70 inc/post-types.php:81
+msgctxt "backend"
+msgid "Slider"
+msgstr "Diapositives"
+
+#: inc/post-types.php:71
+msgctxt "backend"
+msgid "Slide"
+msgstr "Diapositiva"
+
+#: inc/post-types.php:73
+msgctxt "backend"
+msgid "Add New Slide"
+msgstr "Afegeix nova Diapositiva"
+
+#: inc/post-types.php:74
+msgctxt "backend"
+msgid "Edit Slide"
+msgstr "Edita Diapositiva"
+
+#: inc/post-types.php:75
+msgctxt "backend"
+msgid "New Slide"
+msgstr "Nova Diapositiva"
+
+#: inc/post-types.php:76
+msgctxt "backend"
+msgid "All Slides"
+msgstr "Totes les Diapositives"
+
+#: inc/post-types.php:77
+msgctxt "backend"
+msgid "View Slide"
+msgstr "Veure diapositiva"
+
+#: inc/post-types.php:78
+msgctxt "backend"
+msgid "Search Slides"
+msgstr "Cerca Diapositiva"
+
+#: inc/post-types.php:79
+msgctxt "backend"
+msgid "No slides found"
+msgstr "No s'ha trobat diapositives"
+
+#: inc/post-types.php:80
+msgctxt "backend"
+msgid "No slides found in Trash"
+msgstr "No s'ha trobat cap diapositiva a la Paperera"
+
+#: inc/post-types.php:98 inc/post-types.php:109
+msgctxt "backend"
+msgid "Testimonials"
+msgstr "Testimonis"
+
+#: inc/post-types.php:99
+msgctxt "backend"
+msgid "Testimonial"
+msgstr "Testimoni"
+
+#: inc/post-types.php:101
+msgctxt "backend"
+msgid "Add New Testimonial"
+msgstr "Afegeix nou Testimoni"
+
+#: inc/post-types.php:102
+msgctxt "backend"
+msgid "Edit Testimonial"
+msgstr "Editar Testimoni"
+
+#: inc/post-types.php:103
+msgctxt "backend"
+msgid "New Testimonial"
+msgstr "Nou Testimoni"
+
+#: inc/post-types.php:104
+msgctxt "backend"
+msgid "All Testimonials"
+msgstr "Tots els Testimonis"
+
+#: inc/post-types.php:105
+msgctxt "backend"
+msgid "View Testimonial"
+msgstr "Veure Testimoni"
+
+#: inc/post-types.php:106
+msgctxt "backend"
+msgid "Search Testimonials"
+msgstr "Cerca Testimonis"
+
+#: inc/post-types.php:107
+msgctxt "backend"
+msgid "No testimonial found"
+msgstr "No s'ha trobat cap testimoni"
+
+#: inc/post-types.php:108
+msgctxt "backend"
+msgid "No testimonial found in Trash"
+msgstr "No s'ha trobat cap testimoni a la paperera"
+
+#: inc/post-types.php:127
+msgctxt "backend"
+msgid "Team Member"
+msgstr "Membre de l'equip"
+
+#: inc/post-types.php:129
+msgctxt "backend"
+msgid "Add New Team Member"
+msgstr "Afegir Nou Membre de l&#39;Equip"
+
+#: inc/post-types.php:130
+msgctxt "backend"
+msgid "Edit Team Member"
+msgstr "Edita Membre de l&#39;Equip"
+
+#: inc/post-types.php:131
+msgctxt "backend"
+msgid "New Team Member"
+msgstr "Nou membre de l&#39;equip"
+
+#: inc/post-types.php:132
+msgctxt "backend"
+msgid "All Team Members"
+msgstr "Tots els membres de l&#39;equip"
+
+#: inc/post-types.php:133
+msgctxt "backend"
+msgid "View Team Member"
+msgstr "Veure Membre de l&#39;Equip"
+
+#: inc/post-types.php:134
+msgctxt "backend"
+msgid "Search Team Members"
+msgstr "Cercar Membres de l&#39;Equip"
+
+#: inc/post-types.php:135
+msgctxt "backend"
+msgid "No team members found"
+msgstr "No s&#39;han trobat membres de l&#39;Equip"
+
+#: inc/post-types.php:136
+msgctxt "backend"
+msgid "No team members found in Trash"
+msgstr "No s&#39;han trobat membres de l&#39;Equip a la paperera"
+
+#: inc/post-types.php:137
+msgctxt "backend"
+msgid "Team"
+msgstr "Equip"
+
+#: inc/register-sidebars.php:15
+msgctxt "backend"
+msgid "Blog Sidebar"
+msgstr "Barra lateral"
+
+#: inc/register-sidebars.php:17
+msgctxt "backend"
+msgid "Sidebar in the blog layout"
+msgstr "Barra lateral en el disseny del bloc"
+
+#: inc/register-sidebars.php:33
+msgctxt "backend"
+msgid "Services Sidebar"
+msgstr "Barra lateral de serveis"
+
+#: inc/register-sidebars.php:35
+msgctxt "backend"
+msgid "Sidebar in the services layout"
+msgstr "Barra lateral en el disseny de serveis"
+
+#: inc/register-sidebars.php:51
+msgctxt "backend"
+msgid "Gallery Sidebar"
+msgstr "Barra lateral de Galeria"
+
+#: inc/register-sidebars.php:53
+msgctxt "backend"
+msgid "Sidebar in the gallery layout"
+msgstr "Barra lateral en el disseny de galeria"
+
+#: inc/register-sidebars.php:67
+msgctxt "backend"
+msgid "Shop Sidebar"
+msgstr "Barra lateral de la botiga"
+
+#: inc/register-sidebars.php:69
+msgctxt "backend"
+msgid "Sidebar for the shop page"
+msgstr "Barra lateral de la pàgina de la botiga"
+
+#: inc/register-sidebars.php:83
+msgctxt "backend"
+msgid "Contact Page Sidebar"
+msgstr "Barra lateral de la pàgina de contacte"
+
+#: inc/register-sidebars.php:85
+msgctxt "backend"
+msgid "Sidebar on the contact us and make an appointment page"
+msgstr "Barra lateral a la pàgina de contacta amb nosaltres i demanar una cita"
+
+#: inc/register-sidebars.php:98
+msgctxt "backend"
+msgid "Regular Page Sidebar"
+msgstr "Barra lateral de les pàgines normals"
+
+#: inc/register-sidebars.php:100
+msgctxt "backend"
+msgid "Sidebar on the regular page"
+msgstr "Barra lateral a les pàgines normals"
+
+#: inc/register-sidebars.php:113
+msgctxt "backend"
+msgid "Opening Time in Jumbotron"
+msgstr "Horari d&#39;obertura en Jumbotron"
+
+#: inc/register-sidebars.php:115
+msgctxt "backend"
+msgid "Widget area in the jumbotron on the homepage for opening times"
+msgstr ""
+"Àrea de widget en el Jumbotron a la pàgina principal per horari d'obertura"
+
+#: inc/register-sidebars.php:126
+msgctxt "backend"
+msgid "Jumbotron Widgets"
+msgstr "Widgets Jumbotron"
+
+#: inc/register-sidebars.php:128
+msgctxt "backend"
+msgid "Widget area for three widgets in the jumbotron on the homepage"
+msgstr "Àrea Widget per tres ginys al Jumbotron a la pàgina principal"
+
+#: inc/register-sidebars.php:139
+msgctxt "backend"
+msgid "Home Page - above Google maps"
+msgstr "Pàgina principal - sobre Google maps"
+
+#: inc/register-sidebars.php:141
+msgctxt "backend"
+msgid "Sidebar above the Google maps on the homepage"
+msgstr "Barra lateral sobre Google maps a la pàgina principal"
+
+#: inc/register-sidebars.php:152
+msgctxt "backend"
+msgid "Home Page - under Google maps"
+msgstr "Pàgina principal - sota Google maps"
+
+#: inc/register-sidebars.php:154
+msgctxt "backend"
+msgid "Sidebar under the Google maps on the homepage"
+msgstr "Barra lateral sota Google maps a la pàgina principal"
+
+#: inc/register-sidebars.php:165
+msgctxt "backend"
+msgid "Footer"
+msgstr "Peu de pàgina"
+
+#: inc/register-sidebars.php:167
+msgctxt "backend"
+msgid "Sidebar in the dark area at the bottom of the website"
+msgstr "Sidebar en l&#39;àrea fosca a la part inferior de la pàgina web"
+
+#: inc/theme-customizer.php:70
+msgctxt "backend"
+msgid "Front Page &amp; Banners"
+msgstr "Front Page i banners"
+
+#: inc/theme-customizer.php:71
+msgctxt "backend"
+msgid "Settings for the home page and title area"
+msgstr "Ajustos per a la pàgina principal i àrea de títol"
+
+#: inc/theme-customizer.php:75
+msgctxt "backend"
+msgid "Images"
+msgstr "Imatges"
+
+#: inc/theme-customizer.php:76
+msgctxt "backend"
+msgid "Images for the Carpress theme"
+msgstr "Imatges per al tema Carpress"
+
+#: inc/theme-customizer.php:80
+msgctxt "backend"
+msgid "Contact Page"
+msgstr "Pàgina de contacte"
+
+#: inc/theme-customizer.php:81
+msgctxt "backend"
+msgid "Settings for contact page"
+msgstr "Ajustos per a la pàgina de contacte"
+
+#: inc/theme-customizer.php:85
+msgctxt "backend"
+msgid "Other"
+msgstr "Altres"
+
+#: inc/theme-customizer.php:86
+msgctxt "backend"
+msgid "Other settings for the theme"
+msgstr "Altres ajustaments per al tema"
+
+#: inc/theme-customizer.php:91
+msgctxt "backend"
+msgid "Shop"
+msgstr "Botiga"
+
+#: inc/theme-customizer.php:92
+msgctxt "backend"
+msgid "Settings for shop"
+msgstr "Ajustos per a la botiga"
+
+#: inc/theme-customizer.php:104
+msgctxt "backend"
+msgid "Main Theme Color"
+msgstr "Color del tema principal"
+
+#: inc/theme-customizer.php:114
+msgctxt "backend"
+msgid "Buttons Color"
+msgstr "Color dels botons"
+
+#: inc/theme-customizer.php:124
+msgctxt "backend"
+msgid "Base Text Color"
+msgstr "Color base del text"
+
+#: inc/theme-customizer.php:134
+msgctxt "backend"
+msgid "Navbar Color"
+msgstr "Color de la barra de navegació"
+
+#: inc/theme-customizer.php:144
+msgctxt "backend"
+msgid "Navbar Text Color"
+msgstr "Color del text de la barra de navegació"
+
+#: inc/theme-customizer.php:154
+msgctxt "backend"
+msgid "Color for Titles on Subpages"
+msgstr "Color de Títols en Subpàgines"
+
+#: inc/theme-customizer.php:174
+msgctxt "backend"
+msgid "Footer Text Color"
+msgstr "Color del peu de pàgina"
+
+#: inc/theme-customizer.php:184
+msgctxt "backend"
+msgid "Boxed or wide version?"
+msgstr "En caixa o versió ampla?"
+
+#: inc/theme-customizer.php:189
+msgctxt "backend"
+msgid "Wide"
+msgstr "Ample"
+
+#: inc/theme-customizer.php:190
+msgctxt "backend"
+msgid "Boxed"
+msgstr "En caixa"
+
+#: inc/theme-customizer.php:198
+msgctxt "backend"
+msgid "Logo image (recommended dimensions: 195(w) x 70(h))"
+msgstr "Logotip de la imatge (dimensions recomanades: 195 (w) x 70 (h))"
+
+#: inc/theme-customizer.php:207
+msgctxt "backend"
+msgid "Force logo to be always 70px high"
+msgstr "Força el logotip a 70px d'alçada"
+
+#: inc/theme-customizer.php:221
+msgctxt "backend"
+msgid "Favicon image (16 x 16 px), format .ico"
+msgstr "Imatge Favicon (16 x 16 píxels), format .ico"
+
+#: inc/theme-customizer.php:230
+msgctxt "backend"
+msgid "Type of Google Maps"
+msgstr "Tipus de Google Maps"
+
+#: inc/theme-customizer.php:235
+msgctxt "backend"
+msgid "Normal map"
+msgstr "Mapa normal"
+
+#: inc/theme-customizer.php:236
+msgctxt "backend"
+msgid "Satellite"
+msgstr "Satèl·lit"
+
+#: inc/theme-customizer.php:237
+msgctxt "backend"
+msgid "Hybrid"
+msgstr "Híbrid"
+
+#: inc/theme-customizer.php:238
+msgctxt "backend"
+msgid "Terrain"
+msgstr "Relleu"
+
+#: inc/theme-customizer.php:246
+msgctxt "backend"
+msgid "Style of Google Maps"
+msgstr "Estil de Google Maps"
+
+#: inc/theme-customizer.php:251
+msgctxt "backend"
+msgid "Default"
+msgstr "Per defecte"
+
+#: inc/theme-customizer.php:252
+msgctxt "backend"
+msgid "Lunar Landscape"
+msgstr "Paisatge Lunar"
+
+#: inc/theme-customizer.php:253
+msgctxt "backend"
+msgid "Snazzy Maps"
+msgstr "Snazzy Maps"
+
+#: inc/theme-customizer.php:254
+msgctxt "backend"
+msgid "Midnight Commander"
+msgstr "Midnight Commander"
+
+#: inc/theme-customizer.php:255
+msgctxt "backend"
+msgid "Hints of Gold"
+msgstr "Tocs de color"
+
+#: inc/theme-customizer.php:272
+msgctxt "backend"
+msgid "Zoom of Google Maps (more is closer view)"
+msgstr "Zoom de Google Maps (més és vista més propera)"
+
+#: inc/theme-customizer.php:285
+msgctxt "backend"
+msgid "Number of products per page"
+msgstr "Nombre de productes per pàgina"
+
+#: inc/theme-customizer.php:298
+msgctxt "backend"
+msgid "Title for front page (without slider)"
+msgstr "Títol de portada (sense control lliscant)"
+
+#: inc/theme-customizer.php:308
+msgctxt "backend"
+msgid "Text for front page (without slider)"
+msgstr "Text per a la portada (sense control lliscant)"
+
+#: inc/theme-customizer.php:318
+msgctxt "backend"
+msgid "Text for link button (without slider)"
+msgstr "Text per al botó d&#39;enllaç (sense control lliscant)"
+
+#: inc/theme-customizer.php:328
+msgctxt "backend"
+msgid "Link for button (without slider)"
+msgstr "Enllaç de botó (sense control lliscant)"
+
+#: inc/theme-customizer.php:338
+msgctxt "backend"
+msgid "Open link in a new page (without slider)?"
+msgstr "Obrir enllaç en una nova pàgina (sense control lliscant)?"
+
+#: inc/theme-customizer.php:353
+msgctxt "backend"
+msgid "Display Google Maps on the front page?"
+msgstr "Mostrar Google Maps a la primera pàgina?"
+
+#: inc/theme-customizer.php:368
+msgctxt "backend"
+msgid "Pattern for the background (without slider)"
+msgstr "Patró de fons (sense control lliscant)"
+
+#: inc/theme-customizer.php:374
+msgctxt "backend"
+msgid "No background pattern"
+msgstr "Sense patró de fons"
+
+#: inc/theme-customizer.php:375
+msgctxt "backend"
+msgid "Pattern 1"
+msgstr "Patró 1"
+
+#: inc/theme-customizer.php:376
+msgctxt "backend"
+msgid "Pattern 2"
+msgstr "Patró 2"
+
+#: inc/theme-customizer.php:377
+msgctxt "backend"
+msgid "Pattern 3"
+msgstr "Patró 3"
+
+#: inc/theme-customizer.php:378
+msgctxt "backend"
+msgid "Pattern 4"
+msgstr "Patró 4"
+
+#: inc/theme-customizer.php:379
+msgctxt "backend"
+msgid "Pattern 5"
+msgstr "Patró 5"
+
+#: inc/theme-customizer.php:380
+msgctxt "backend"
+msgid "Pattern 6"
+msgstr "Patró 6"
+
+#: inc/theme-customizer.php:388
+msgctxt "backend"
+msgid "Upload custom pattern for the background (without slider)"
+msgstr "Puja patró personalitzat per al fons (sense control lliscant)"
+
+#: inc/theme-customizer.php:398
+msgctxt "backend"
+msgid "Slider interval (in miliseconds, 1s = 1000ms)"
+msgstr "Control lliscant (en mil·lisegons, 1s = 1000 ms)"
+
+#: inc/theme-customizer.php:408
+msgctxt "backend"
+msgid "Slider text background color"
+msgstr "Control lliscant color de fons del text"
+
+#: inc/theme-customizer.php:418
+msgctxt "backend"
+msgid "Slider text background color opacity"
+msgstr "Control lliscant text opacitat del color de fons"
+
+#: inc/theme-customizer.php:444
+msgctxt "backend"
+msgid "Character set for Google Fonts"
+msgstr "Joc de caràcters per a Google Fonts"
+
+#: inc/theme-customizer.php:460
+msgctxt "backend"
+msgid "Tap to call number (will be seen on mobile phones)"
+msgstr "Toc per trucar al número (es veurà en els telèfons mòbils)"
+
+#: inc/theme-customizer.php:469
+msgctxt "backend"
+msgid "Tap to call button text (will be seen on mobile phones)"
+msgstr "Text per anomenar el botó de trucar (es veurà en els telèfons mòbils)"
+
+#: inc/theme-customizer.php:478
+msgctxt "backend"
+msgid "Show tap to call just on mobile or also on desktop?"
+msgstr "Mostra toc per trucar només en mòbil o també a l&#39;escriptori?"
+
+#: inc/theme-customizer.php:483
+msgctxt "backend"
+msgid "Mobile"
+msgstr "Mòbil"
+
+#: inc/theme-customizer.php:484
+msgctxt "backend"
+msgid "Everywhere"
+msgstr "A tot arreu"
+
+#: inc/theme-customizer.php:492
+msgctxt "backend"
+msgid "Pattern image for the footer"
+msgstr "Imatge de patró pel peu de pàgina"
+
+#: inc/theme-customizer.php:501
+msgctxt "backend"
+msgid "Show breadcrumbs?"
+msgstr "Mostra molles de pa?"
+
+#: inc/theme-customizer.php:517
+msgctxt "backend"
+msgid "Main navbar position"
+msgstr "Posició de barra de navegació principal"
+
+#: inc/theme-customizer.php:522
+msgctxt "backend"
+msgid "Sticky"
+msgstr "Article destacat"
+
+#: inc/theme-customizer.php:523
+msgctxt "backend"
+msgid "Static"
+msgstr "Estàtic"
+
+#: inc/theme-widgets.php:28
+msgctxt "backend"
+msgid "Carpress: Opening Time"
+msgstr "Carpress: Horari d&#39;obertura"
+
+#: inc/theme-widgets.php:30
+msgctxt "backend"
+msgid "Opening Time Widget for placing it into the sidebar or above the slider"
+msgstr ""
+"Giny Horari d'obertura per col·locar-lo a la barra lateral o per sobre del "
+"control lliscant"
+
+#: inc/theme-widgets.php:225 inc/theme-widgets.php:517
+#: inc/theme-widgets.php:701 inc/theme-widgets.php:848
+#: inc/theme-widgets.php:970 inc/theme-widgets.php:1074
+#: inc/theme-widgets.php:1225 inc/theme-widgets.php:1392
+msgctxt "backend"
+msgid "Title:"
+msgstr "Títol:"
+
+#: inc/theme-widgets.php:232
+msgctxt "backend"
+msgid "opened"
+msgstr "obert"
+
+#: inc/theme-widgets.php:234
+msgctxt "backend"
+msgid "to"
+msgstr "a"
+
+#: inc/theme-widgets.php:240
+msgctxt "backend"
+msgid "Separator between hours"
+msgstr "Separador entre hores"
+
+#: inc/theme-widgets.php:245
+msgctxt "backend"
+msgid "Text used for closed days"
+msgstr "Text utilitzat pels dies tancats"
+
+#: inc/theme-widgets.php:250
+msgctxt "backend"
+msgid "Text below the timetable for additional info (for example lunch time)"
+msgstr ""
+"Text sota l'horari per informació addicional (per exemple, hora de dinar)"
+
+#: inc/theme-widgets.php:279
+msgctxt "backend"
+msgid "Carpress: Our Services"
+msgstr "Carpress: Els nostres Serveis"
+
+#: inc/theme-widgets.php:281 inc/theme-widgets.php:413
+#: inc/theme-widgets.php:556 inc/theme-widgets.php:754
+#: inc/theme-widgets.php:883 inc/theme-widgets.php:1115
+#: inc/theme-widgets.php:1262
+msgctxt "backend"
+msgid "Use this widget only on the home page of the Carpress theme"
+msgstr "Utilitzeu aquest giny només a la pàgina principal del tema Carpress"
+
+#: inc/theme-widgets.php:382
+msgctxt "backend"
+msgid "Number of services to display:"
+msgstr "Nombre de serveis a la pantalla:"
+
+#: inc/theme-widgets.php:411
+msgctxt "backend"
+msgid "Carpress: Latest News"
+msgstr "Carpress: Últimes Notícies"
+
+#: inc/theme-widgets.php:521
+msgctxt "backend"
+msgid "Number of news to display"
+msgstr "Nombre de notícies per mostrar"
+
+#: inc/theme-widgets.php:525
+msgctxt "backend"
+msgid "Text for the all posts's link"
+msgstr "Text d&#39;enllaç dels tots el missatges"
+
+#: inc/theme-widgets.php:554
+msgctxt "backend"
+msgid "Carpress: Latest Galleries"
+msgstr "Carpress: Últimes galeries"
+
+#: inc/theme-widgets.php:705
+msgctxt "backend"
+msgid "Number of galleries to display"
+msgstr "Nombre de galeries per mostrar"
+
+#: inc/theme-widgets.php:709
+msgctxt "backend"
+msgid "Max number of image per gallery"
+msgstr "Nombre màxim d&#39;imatges per la galeria"
+
+#: inc/theme-widgets.php:713
+msgctxt "backend"
+msgid "Link images to:"
+msgstr "Enllaç a les imatges:"
+
+#: inc/theme-widgets.php:715
+msgctxt "backend"
+msgid "None"
+msgstr "Cap"
+
+#: inc/theme-widgets.php:716
+msgctxt "backend"
+msgid "Gallery page"
+msgstr "Galeria"
+
+#: inc/theme-widgets.php:717
+msgctxt "backend"
+msgid "Image"
+msgstr "Imatge"
+
+#: inc/theme-widgets.php:722 inc/theme-widgets.php:1230
+msgctxt "backend"
+msgid "Interval:"
+msgstr "Interval:"
+
+#: inc/theme-widgets.php:723 inc/theme-widgets.php:1231
+msgctxt "backend"
+msgid ""
+"In miliseconds (1s = 1000ms). Set to <code>0</code> to disable auto-scroll."
+msgstr ""
+"En mil·lisegons (1s = 1000 ms). S&#39;estableix en <code>0</code> per "
+"desactivar el desplaçament automàtic."
+
+#: inc/theme-widgets.php:752
+msgctxt "backend"
+msgid "Carpress: Meet The Team"
+msgstr "Carpress: Conegui l&#39;Equip"
+
+#: inc/theme-widgets.php:852
+msgctxt "backend"
+msgid "Text for the link to all members (leave empty if don't want to show):"
+msgstr ""
+"Text per l&#39;enllaç a tots els membres (deixar en blanc si no volen "
+"mostrar):"
+
+#: inc/theme-widgets.php:881
+msgctxt "backend"
+msgid "Carpress: Text with Link"
+msgstr "Carpress: Text amb Enllaç"
+
+#: inc/theme-widgets.php:974
+msgctxt "backend"
+msgid "Link text"
+msgstr "Text de l'enllaç"
+
+#: inc/theme-widgets.php:978 inc/theme-widgets.php:1507
+msgctxt "backend"
+msgid "Link"
+msgstr "Enllaç"
+
+#: inc/theme-widgets.php:983
+msgctxt "backend"
+msgid "Text block"
+msgstr "Bloc de text"
+
+#: inc/theme-widgets.php:1008
+msgctxt "backend"
+msgid "Carpress: Custom Width Text For Home Page"
+msgstr "Carpress: Text personalitzat Ample Per Home Page"
+
+#: inc/theme-widgets.php:1010
+msgctxt "backend"
+msgid ""
+"Use this widget only on the home page of the Carpress theme. With this "
+"widget you can specify custom width of the text."
+msgstr ""
+"Utilitzeu aquest giny només a la pàgina principal del tema Carpress. Amb "
+"aquest giny es pot especificar l&#39;ample del text."
+
+#: inc/theme-widgets.php:1078
+msgctxt "backend"
+msgid "Number of columns:"
+msgstr "Nombre de columnes:"
+
+#: inc/theme-widgets.php:1087
+msgctxt "backend"
+msgid "Automatically add paragraphs"
+msgstr "Afegeix automàticament els paràgrafs"
+
+#: inc/theme-widgets.php:1113
+msgctxt "backend"
+msgid "Carpress: Testimonials"
+msgstr "Carpress: Testimonis"
+
+#: inc/theme-widgets.php:1260
+msgctxt "backend"
+msgid "Carpress: Divider"
+msgstr "Carpress: Divisor"
+
+#: inc/theme-widgets.php:1312
+msgctxt "backend"
+msgid "Carpress: Facebook"
+msgstr "Carpress: Facebook"
+
+#: inc/theme-widgets.php:1314
+msgctxt "backend"
+msgid "Use this widget only in the footer of the Carpress theme"
+msgstr "Utilitzeu aquest giny només al peu de pàgina del tema Carpress"
+
+#: inc/theme-widgets.php:1396
+msgctxt "backend"
+msgid "FB Page to like"
+msgstr "Pàgina de FB que t'agrada"
+
+#: inc/theme-widgets.php:1423
+msgctxt "backend"
+msgid "Carpress: Title with Icon"
+msgstr "Carpress: Títol amb Icon"
+
+#: inc/theme-widgets.php:1425
+msgctxt "backend"
+msgid "Widget for the front page in the head - select title, subtitle and icon"
+msgstr ""
+"Giny de la primera pàgina a la capçalera - seleccioni títol, subtítol i la "
+"icona"
+
+#: inc/theme-widgets.php:1499
+msgctxt "backend"
+msgid "Title"
+msgstr "Títol"
+
+#: inc/theme-widgets.php:1517
+msgctxt "backend"
+msgid "Text Color:"
+msgstr "Color del text:"
+
+#: inc/theme-widgets.php:1522
+msgctxt "backend"
+msgid "Icon"
+msgstr "Icona"
+
+#: inc/theme-widgets.php:1523
+msgctxt "backend"
+msgid "Click on the icon below or manually select from the %s website"
+msgstr ""
+"Feu clic a la icona de sota o seleccionar manualment des del lloc web de %s"
+
+#~ msgid "Cart Total"
+#~ msgstr "Total del carret"
+
+#~ msgid "Cart Subtotal"
+#~ msgstr "Subtotal del carret"
+
+#~ msgid "Coupon:"
+#~ msgstr "Codi de descompte:"
+
+#~ msgid "Order Total"
+#~ msgstr "Total de la comanda"
+
+#~ msgid " (taxes estimated for %s)"
+#~ msgstr "(impostos estimats per %s)"
+
+#~ msgid ""
+#~ "Note: Shipping and taxes are estimated%s and will be updated during "
+#~ "checkout based on your billing and shipping information."
+#~ msgstr ""
+#~ "Nota: L'enviament i els impostos s'estimen%s, que s'actualitzaran durant "
+#~ "el pagament en base a la seva informació de facturació i enviament."
